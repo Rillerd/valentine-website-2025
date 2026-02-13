@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dvh5qhb5n/video/upload/v1771016833/Oliver_Tree_-_Essence_feat._Super_Computer_Music_Video_phyxol.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.8                        // Volume level (0.0 to 1.0)
     }
 };
 
